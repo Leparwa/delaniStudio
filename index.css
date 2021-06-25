@@ -11,3 +11,17 @@
     position: absolute;
     margin-top: 15%;
 }
+.services{
+    height: 300px;
+    width: 100%;
+    background-image: url(./projectImages/s_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 40px;
+}
+.servicesContent{
+    margin-top: 10%;
+}
+/* .servicesContent h4, p{
+color: azure;
+} */
