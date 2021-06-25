@@ -17,7 +17,7 @@ $(document).ready(function(){
 				alert("Subscribed!");
 			},
 			error: function() {
-                alert(`thank you ${name} for reaching out to us`)
+                alert(`${name} we have received your message, thank you reaching out to us`)
 			}
 		});
     });
