@@ -1,2 +1,13 @@
-.container{
+.mainSection{
+    height: 500px;
+    width: 100%;
+    background-image: url(./projectImages/headerSection.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 20px;
+
+}
+.logo{
+    position: absolute;
+    margin-top: 15%;
 }
